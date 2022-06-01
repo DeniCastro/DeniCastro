@@ -1,4 +1,4 @@
-### ॐ Hi 👋🏻😊, I'm Deni and I'm a student. Welcome to my GitHub ॐ
+###                 ॐ Hi 👋🏻😊, I'm Deni and I'm a student. Welcome to my GitHub ॐ
 
 <div align="center">
   <a href="https://github.com/DeniCastro">
@@ -16,7 +16,7 @@
   
   <img align="center" alt="Deni-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     
-  <img align="right" alt="Hamsa-gif" height="100" width="140" src="https://i.pinimg.com/originals/30/40/df/3040df1d7ae23b14e72533044eb47d74.gif">
+  <img align="right" alt="Deni-AVATAR" height="100" width="140" src="https://imgur.com/a/wjjzROx">
     
 </div>
  
