@@ -16,11 +16,12 @@
   
   <img align="center" alt="Deni-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     
-  <img align="right" alt="avatar" src="![myIcon](https://user-images.githubusercontent.com/101472709/171513644-eee0a8e7-5ce3-4b6e-90cc-7c390ef54b22.png)"
-
+  <img align="center" alt="avatar" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    
 </div>
  
-  
+  ![playstore](https://user-images.githubusercontent.com/101472709/171513808-26bbb8c7-7f49-4fa3-9e2e-d741cf41ceeb.png)
+
 ##
   
   
