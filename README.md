@@ -20,7 +20,7 @@
     
 </div>
   
-  <img align="right" alt="avatar" height="105" width="125" src="https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_baea26b9-930c-4548-bf49-fe6e40ac2dfb.png">
+  <img align="right" alt="avatar" height="155" width="155" src="https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_baea26b9-930c-4548-bf49-fe6e40ac2dfb.png">
 
 <div>
 
