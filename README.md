@@ -16,7 +16,8 @@
   
   <img align="center" alt="Deni-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     
-  <img align="right" alt="Deni-AVATAR" height="100" width="140" src="[https://imgur.com/a/wjjzROx.png](https://user-images.githubusercontent.com/101472709/171512699-4e6f6edd-1d10-4584-bb47-00b49ad5c22d.png)">
+  ![playstore](https://user-images.githubusercontent.com/101472709/171513140-82864140-52d8-4daa-b65f-f03e4a5d617e.png)
+
     
 </div>
  
