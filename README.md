@@ -20,7 +20,7 @@
     
 </div>
   
-  <img align="right" alt="avatar" height="35" width="45" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_baea26b9-930c-4548-bf49-fe6e40ac2dfb.png)">
+  <img align="right" alt="avatar" height="35" width="45" src="https://shopify-customerio.s3.amazonaws.com/tools/image_attachment/image/custom_resized_baea26b9-930c-4548-bf49-fe6e40ac2dfb.png">
 
 <div>
 
