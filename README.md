@@ -16,7 +16,7 @@
   
   <img align="center" alt="Deni-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     
-  <img align="right" alt="Deni-AVATAR" height="100" width="140" src="https://imgur.com/a/wjjzROx">
+  <img align="right" alt="Deni-AVATAR" height="100" width="140" src="https://imgur.com/a/wjjzROx.png">
     
 </div>
  
