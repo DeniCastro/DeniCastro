@@ -1,4 +1,4 @@
-###                 ॐ Hi 👋🏻😊, I'm Deni and I'm a student. Welcome to my GitHub ॐ
+###                 ॐHi 👋🏻😊, I'm Deni and I'm a student. Welcome to my GitHub 
 
 <div align="center">
   <a href="https://github.com/DeniCastro">
