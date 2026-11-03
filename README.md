@@ -1,4 +1,4 @@
-# ⚔️ DENI OLIVEIRA — CODE KNIGHT
+# ⚔️ DENI OLIVEIRA 
 
 <div align="center">
 
