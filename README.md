@@ -1,8 +1,8 @@
-# ⚔️ DENI OLIVEIRA 
+# ⚔️ “Look, he is coming with the clouds,” and “every eye will see him, even those who pierced him”; and all peoples on earth “will mourn because of him.” So shall it be! Amen.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,45:3d0b16,100:e63946&height=240&section=header&text=DENI%20OLIVEIRA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CODE%20KNIGHT&descSize=17&descAlignY=59&animation=fadeIn" alt="Deni Oliveira — Code Knight"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,45:3d0b16,100:e63946&height=240&section=header&text=DENI%20OLIVEIRA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Developer%20Account%20%7C%20CODE%20KNIGHT&descSize=17&descAlignY=59&animation=fadeIn" alt="Deni Oliveira — Code Knight"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=E63946&center=true&vCenter=true&width=650&height=45&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+CLASS%3A+CODE+KNIGHT;%3E+STATUS%3A+BUILDING+THE+NEXT+LEVEL;%3E+QUEST%3A+TURNING+IDEAS+INTO+CODE" alt="Terminal introduction"/>
 
