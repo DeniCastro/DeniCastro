@@ -1,4 +1,4 @@
-# ⚔️ “Look, he is coming with the clouds,” and “every eye will see him, even those who pierced him”; and all peoples on earth “will mourn because of him.” So shall it be! Amen.
+# ⚔️ Christ is King 
 
 <div align="center">
 
